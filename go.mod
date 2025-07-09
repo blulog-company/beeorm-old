@@ -1,4 +1,4 @@
-module github.com/blulog-company/beeorm-old
+module github.com/blulog-company/beeorm-old/v4
 
 go 1.21.0
 
