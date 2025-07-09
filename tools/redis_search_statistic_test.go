@@ -5,7 +5,7 @@ import (
 
 	jsoniter "github.com/json-iterator/go"
 
-	"github.com/latolukasz/beeorm"
+	"github.com/latolukasz/orm"
 	"github.com/stretchr/testify/assert"
 )
 

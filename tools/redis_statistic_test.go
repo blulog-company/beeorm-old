@@ -3,7 +3,7 @@ package tools
 import (
 	"testing"
 
-	"github.com/latolukasz/beeorm"
+	"github.com/latolukasz/orm"
 	"github.com/stretchr/testify/assert"
 )
 

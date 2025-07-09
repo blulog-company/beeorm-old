@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	orm "github.com/latolukasz/beeorm"
+	orm "github.com/latolukasz/orm"
 	"github.com/stretchr/testify/assert"
 )
 

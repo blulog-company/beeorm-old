@@ -1,4 +1,4 @@
-module github.com/latolukasz/beeorm
+module github.com/latolukasz/orm
 
 go 1.21.0
 

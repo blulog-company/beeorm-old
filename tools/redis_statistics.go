@@ -4,7 +4,7 @@ import (
 	"sort"
 	"strings"
 
-	orm "github.com/latolukasz/beeorm"
+	orm "github.com/latolukasz/orm"
 )
 
 type RedisStatistics struct {
